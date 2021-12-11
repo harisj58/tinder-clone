@@ -25,8 +25,8 @@
       },
       "config": {
         "googleSignIn": {
-          "apiKey": "AIzaSyD7zqkU1y7EpWPuOScgtZpwq-rjdFL_XO4",
-          "certificateHash": "05773F2A27E73FD91777508B7F313824D422614D"
+          "apiKey": "", //Add your own API Key
+          "certificateHash": "" //Add your own certificate hash
         }
       },
       "package": "com.harisjaved.tinderclone"
