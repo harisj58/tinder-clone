@@ -20,4 +20,6 @@ The project uses Firebase as its backend and employs the Firestore Database (to 
 
 ![d279ef12-e82b-4571-8b36-9eefc40587c8](https://user-images.githubusercontent.com/72334266/145680564-6a6f0787-92c0-4ba5-8332-014d8c88e7be.png)
 
-
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://user-images.githubusercontent.com/72334266/145680399-9bbe9f19-b54b-4d68-849c-a2243b71c5a8.png)  |  ![](https://user-images.githubusercontent.com/72334266/145680407-b7bd9a55-ea21-4b78-ae7f-3c886e2fc678.png)
