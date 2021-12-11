@@ -1,7 +1,7 @@
 # LinkedIn Clone - A work of Haris Javed
 
 This project is an upgraded and enhanced version of the one created by Sonny Sangha in a tutorial on his YouTube channel (https://www.youtube.com/c/SonnySangha).
-Try out the project for yourself: https://bit.ly/3rkEURr
+Try out the project for yourself: https://bit.ly/3rkEURr (Currently only for Android)
 
 ## Project Details
 
@@ -15,5 +15,11 @@ This application emulates the working and functionalities of the dating app Tind
 The project uses Firebase as its backend and employs the Firestore Database (to store user profiles) and Authentication (for user authentication via Google oAuth Sign-In).
 
 ## Screenshots
+
+![image](https://user-images.githubusercontent.com/72334266/145680399-9bbe9f19-b54b-4d68-849c-a2243b71c5a8.png)
+
+![image](https://user-images.githubusercontent.com/72334266/145680407-b7bd9a55-ea21-4b78-ae7f-3c886e2fc678.png)
+
+![d279ef12-e82b-4571-8b36-9eefc40587c8](https://user-images.githubusercontent.com/72334266/145680564-6a6f0787-92c0-4ba5-8332-014d8c88e7be.png)
 
 
