@@ -1,32 +1,38 @@
 {
   "expo": {
-    "name": "tinder-2",
+    "name": "Tinder Clone",
     "slug": "tinder-2",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
-      "resizeMode": "contain",
+      "resizeMode": "cover",
       "backgroundColor": "#ffffff"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "userInterfaceStyle": "automatic"
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "config": {
+        "googleSignIn": {
+          "apiKey": "AIzaSyD7zqkU1y7EpWPuOScgtZpwq-rjdFL_XO4",
+          "certificateHash": "05773F2A27E73FD91777508B7F313824D422614D"
+        }
+      },
+      "package": "com.harisjaved.tinderclone"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/icon.png"
     }
   }
 }

@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "704412862611",
+    "project_id": "tinder-2-d7e19",
+    "storage_bucket": "tinder-2-d7e19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704412862611:android:978ff9c359be483d53e566",
+        "android_client_info": {
+          "package_name": "com.harisjaved.tinderclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704412862611-7vljbiuq4gohr8sikjdf4d8g5bdkss7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harisjaved.tinderclone",
+            "certificate_hash": "05773f2a27e73fd91777508b7f313824d422614d"
+          }
+        },
+        {
+          "client_id": "704412862611-9j09defbdmmueclfnsbe9er8nu3qq2qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7zqkU1y7EpWPuOScgtZpwq-rjdFL_XO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704412862611-9j09defbdmmueclfnsbe9er8nu3qq2qg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "704412862611-v78klk472ncjs2onet65gbe7msl1gg7j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704412862611:android:2b6fc3e1bf769f4d53e566",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704412862611-flg2i3ee96q8ruks1je4jcmj6436s5ko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "host.exp.exponent",
+            "certificate_hash": "05773f2a27e73fd91777508b7f313824d422614d"
+          }
+        },
+        {
+          "client_id": "704412862611-9j09defbdmmueclfnsbe9er8nu3qq2qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7zqkU1y7EpWPuOScgtZpwq-rjdFL_XO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704412862611-9j09defbdmmueclfnsbe9er8nu3qq2qg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "704412862611-v78klk472ncjs2onet65gbe7msl1gg7j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
