@@ -1,7 +1,7 @@
 # LinkedIn Clone - A work of Haris Javed
 
 This project is an upgraded and enhanced version of the one created by Sonny Sangha in a tutorial on his YouTube channel (https://www.youtube.com/c/SonnySangha).
-Try out the project for yourself: https://bit.ly/3rkEURr (Currently only for Android)
+Try out the project for yourself: https://bit.ly/3rkEURr (Currently only for Android).
 
 ## Project Details
 
