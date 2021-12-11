@@ -21,11 +21,11 @@ const AuthContext = createContext({
 
 const config = {
   androidStandaloneAppClientId:
-    "704412862611-7vljbiuq4gohr8sikjdf4d8g5bdkss7a.apps.googleusercontent.com",
+    "", //Add your own Android standalone app client ID
   androidClientId:
-    "704412862611-flg2i3ee96q8ruks1je4jcmj6436s5ko.apps.googleusercontent.com",
+    "", //Add your own Android client ID 
   iosClientId:
-    "704412862611-v78klk472ncjs2onet65gbe7msl1gg7j.apps.googleusercontent.com",
+    "", //Add your own iOS client ID
   scopes: ["profile", "email"],
   permissions: ["public_profile", "email", "gender", "location"],
 };
