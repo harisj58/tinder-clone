@@ -20,6 +20,6 @@ Splash Screen             |  Login Screen             |   Profile Creation Scree
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://user-images.githubusercontent.com/72334266/145680399-9bbe9f19-b54b-4d68-849c-a2243b71c5a8.png)  |  ![](https://user-images.githubusercontent.com/72334266/145680407-b7bd9a55-ea21-4b78-ae7f-3c886e2fc678.png)  |  ![](https://user-images.githubusercontent.com/72334266/145680564-6a6f0787-92c0-4ba5-8332-014d8c88e7be.png)
 
-Profile Creation Screen             |  Home Screen
-:-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/72334266/145680564-6a6f0787-92c0-4ba5-8332-014d8c88e7be.png)  |  ![]()
+Home Screen             |  Chat Screen             |   Drawer Screen
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://user-images.githubusercontent.com/72334266/145681213-48e05771-db4d-4836-9ff1-996673757787.png)  |  ![](https://user-images.githubusercontent.com/72334266/145681225-797267f8-dc32-4c73-a5ba-0f0a43610b15.png)  |  ![](https://user-images.githubusercontent.com/72334266/145681246-24a950b6-3926-4eef-8276-3f7afb69043e.png)
