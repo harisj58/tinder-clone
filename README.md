@@ -6,7 +6,11 @@ Try out the project for yourself: https://bit.ly/3rkEURr (Currently only for And
 ## Project Details
 
 ### Tech Stack:
-React Native
+React Native with Expo CLI, Tailwind CSS, Firebase
+<p align="left">
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" alt="react_native" width="50" height="40"/> </a><a href="https://expo.dev/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/72334266/197482778-b0d54063-286e-4369-a11e-e22eac39e4f2.svg" alt="expo_cli" width="40" height="40"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/72334266/197483264-965d93cb-c811-4745-b7a1-e3c4bdd4fa78.svg" alt="tailwind" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a></p>
+
+
 
 ### Description:
 
